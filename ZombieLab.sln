@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieLab.Host", "src\ZombieLab.Host\ZombieLab.Host.csproj", "{9C54AA42-2298-4788-9581-423F53A5CA99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieLab.Grains", "src\ZombieLab.Grains\ZombieLab.Grains.csproj", "{51E3F8C5-C1E5-401F-BD95-BF0FFA4652C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieLab.Interfaces", "src\ZombieLab.Interfaces\ZombieLab.Interfaces.csproj", "{35D1A6BC-F3BF-4C32-952F-C9E806D2BFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C54AA42-2298-4788-9581-423F53A5CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C54AA42-2298-4788-9581-423F53A5CA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C54AA42-2298-4788-9581-423F53A5CA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C54AA42-2298-4788-9581-423F53A5CA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E3F8C5-C1E5-401F-BD95-BF0FFA4652C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E3F8C5-C1E5-401F-BD95-BF0FFA4652C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E3F8C5-C1E5-401F-BD95-BF0FFA4652C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E3F8C5-C1E5-401F-BD95-BF0FFA4652C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D1A6BC-F3BF-4C32-952F-C9E806D2BFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D1A6BC-F3BF-4C32-952F-C9E806D2BFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D1A6BC-F3BF-4C32-952F-C9E806D2BFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D1A6BC-F3BF-4C32-952F-C9E806D2BFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
